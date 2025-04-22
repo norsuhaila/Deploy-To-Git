@@ -1,1 +1,9 @@
 //sebuah fail pengujian sahaja
+//fail ini menunjukkan bahan boleh di PULL daripada GitHub
+
+
+🔍 Bezakan git clone vs git pull
+
+Perintah	     Tujuan	                                                                        Bila Digunakan
+git clone	     Salin keseluruhan repositori dari GitHub ke komputer anda (kali pertama)	      Untuk mula kerja pada projek
+git pull	     Kemas kini repositori tempatan dengan perubahan terkini dari GitHub	          Selepas clone dan bila perlu sinkronkan dengan repo GitHub
