@@ -1,0 +1,4 @@
+<?php
+$nama = "haziq";
+//hello
+?>
