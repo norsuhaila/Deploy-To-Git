@@ -1,4 +1,7 @@
 <?php
-$nama = "haziq";
-//hello
+
+$haiwan="kucing";
+
+echo "Haiwan peliharaan saya ialah seekor " .$haiwan;
+
 ?>
