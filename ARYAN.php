@@ -1,1 +1,1 @@
-<? php
+digi lembat lah cikgu
