@@ -28,10 +28,17 @@ $nama = $_POST['nama'];
 
 //proses semakan log masuk
 
+<<<<<<< HEAD
+$nama= $_POST['nama'];
+=======
 $nama = $_POST['nama'];
 >>>>>>> 3f7924b0d6aaafaecc78c5fc44589744e7f5c2d9
 //haha
+<<<<<<< HEAD
 >>>>>>> 2e5ace27bccc6e205fb3e3b68615d1bd0663d891
+=======
+>>>>>>> f39a828a917bb3fbba2c9f2523c4701ef712152f
+>>>>>>> 74c95892dbce00f2be3effef0e892353f92950a1
 
 ?>
 <<<<<<< HEAD
