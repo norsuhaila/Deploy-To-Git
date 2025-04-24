@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,3 +10,13 @@
     <p>Modify Page HUAHAHAHAH</p>
 </body>
 </html>
+=======
+<?php
+
+//proses semakan log masuk
+
+$nama = $_POST['nama'];
+//haha
+
+?>
+>>>>>>> f39a828a917bb3fbba2c9f2523c4701ef712152f
