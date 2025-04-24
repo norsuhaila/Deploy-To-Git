@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +12,9 @@
 </body>
 </html>
 =======
+sheeshgrffevnowefvufni
+>>>>>>> d1fb38e4b62e70c5f6eb8508f9cf02b3420e8218
+=======
 <?php
 
 //proses semakan log masuk
@@ -19,4 +23,8 @@ $nama = $_POST['nama'];
 //haha
 
 ?>
+<<<<<<< HEAD
 >>>>>>> f39a828a917bb3fbba2c9f2523c4701ef712152f
+=======
+>>>>>>> 1ba0757b5c771d5dfdcf529d45c1dd545a16ddab
+>>>>>>> d1fb38e4b62e70c5f6eb8508f9cf02b3420e8218
