@@ -1,4 +1,5 @@
-// Hello
-// Hi
-// Khabar
-ammar pokees
+<?php
+
+echo "Hello World";
+
+?>
